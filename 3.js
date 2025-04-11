@@ -1,3 +1,5 @@
+//Não deu tempo :(
+
 // 1. Crie uma função chamada registrarPedido que receba cliente, prato, mesa e idade
 function registrarPedido(cliente, prato, mesa, idade) {
     return {
